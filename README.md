@@ -1,7 +1,7 @@
 # Atliq_sales_insights
 ## Retail Sales Analysis Dashboard
-!(dashboard1.png)
-!(dashboard2.png)
+![Atliq_sales_insights](dashboard1.png)
+![Atliq_sales_insights](dashboard2.png)
 ### Overview
 
 This project involves the creation of an interactive Power BI dashboard to analyze retail sales data. The dashboard provides insights into revenue, profit margins, sales quantities, and market trends, enabling data-driven decision-making for stakeholders.
